@@ -5,7 +5,7 @@ title: Home
 
 # GAIMHE
 
-**Generative AI et Modèles Hybrides pour l'Éducation**
+**Generative AI Models for Hybrid Educational technologies**
 
 ---
 
